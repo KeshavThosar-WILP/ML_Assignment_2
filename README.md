@@ -1,6 +1,7 @@
 # ML Assignment 2
 
 ## Problem Statement
+Analyze customer behavior and predict if they are more likely to drop their subscriptions (churn) or not.
 
 ## Dataset Description
 **Dataset:** Telecom Customer Churn  
