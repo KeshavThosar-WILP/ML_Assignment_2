@@ -50,8 +50,8 @@ https://github.com/KeshavThosar-WILP/ML_Assignment_2
 ### Observations
 | ML Model Name | Observation about model |
 |---|---|
-| Logistic Regression | |
-| Decision Tree | |
-| KNN | |
-| Naive Bayes | |
-| Support Vector Machine | |
+| Logistic Regression | Highest AUC score. Good model to determine decision boundaries |
+| Decision Tree | Slightly higher precision than KNN but low consistency (lower F1 score as compared to KNN) |
+| KNN | High recall. Can be used over Decision tree if goal is to minimize missed churn rates |
+| Naive Bayes | Highest recall. Detected most churners but at the cost of high false positive rate |
+| Support Vector Machine | Overall best performing model across most evaluation metrics in determining customer churn |
