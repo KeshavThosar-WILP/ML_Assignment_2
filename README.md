@@ -41,11 +41,11 @@ https://github.com/KeshavThosar-WILP/ML_Assignment_2
 ### Evaluation Metrics
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---|---|---|---|---|---|
-| Logistic Regression | 0.735983 | 0.838950 | 0.501678 | 0.799465 | 0.616495 | 0.458077 |
+| Logistic Regression | 0.735983 |** 0.838950 **| 0.501678 | 0.799465 | 0.616495 | 0.458077 |
 | Decision Tree | 0.716111 | 0.664783 | 0.470455 | 0.553476 | 0.508600 | 0.312868 |
 | KNN | 0.700497 | 0.764405 | 0.459459 | 0.727273 | 0.563147 | 0.374031 |
-| Naive Bayes | 0.652236 | 0.789194 | 0.421622 | 0.834225 | 0.560144 | 0.372004 |
-| Support Vector Machine | 0.757275 | 0.824509 | 0.530189 | 0.751337 | 0.621681 | 0.465573 |
+| Naive Bayes | 0.652236 | 0.789194 | 0.421622 | **0.834225** | 0.560144 | 0.372004 |
+| Support Vector Machine | **0.757275** | 0.824509 | **0.530189** | 0.751337 | **0.621681** | **0.465573** |
 
 ### Observations
 | ML Model Name | Observation about model |
